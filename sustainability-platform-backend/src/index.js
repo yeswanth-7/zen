@@ -35,7 +35,8 @@ app.use((err, req, res, next) => {
 });
 
 app.get("/", () => {
-  res.send(200).json({ message: "Zen backend in ON" });
+  res.send("Welcome to the Sustainability Platform API");
+ 
 });
 
  app.listen(port, () => {
