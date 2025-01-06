@@ -34,6 +34,10 @@ app.use((err, req, res, next) => {
    res.status(err.statusCode || 500).send({ message: err.message });
 });
 
+app.get("/", () => {
+  res.send(200).json({ message: "Zen backend in ON" });
+});
+
  app.listen(port, () => {
      console.log(`Server running at http://localhost:${port}`);
  })
