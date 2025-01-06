@@ -21,18 +21,24 @@ exports.register = async (req, res, next) => {
 
 exports.login = async (req, res, next) => {
   try {
-    const { username, password } = req.body;
-    const user = await User.findOne({ username });
-    if (!user) {
-      return next(new ApiError('Invalid credentials', 401));
-    }
-    const passwordMatch = await bcrypt.compare(password, user.passwordHash);
-    if (!passwordMatch) {
-      return next(new ApiError('Invalid credentials', 401));
-    }
-    const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
-    res.status(200).json({ token, message: 'Login Successful' });
+     console.log("login function called");
+      const { username, password } = req.body;
+     console.log("username:", username, " password:", password);
+     const user = await User.findOne({ username });
+     console.log("user:", user);
+      if (!user) {
+        return next(new ApiError('Invalid credentials', 401));
+        }
+      const passwordMatch = await bcrypt.compare(password, user.passwordHash);
+      console.log("passwordMatch:", passwordMatch);
+         if (!passwordMatch) {
+            return next(new ApiError('Invalid credentials', 401))
+         }
+        const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+        console.log("token generated", token);
+        res.status(200).json({ token, message: 'Login Successful'});
+      console.log("Login successful");
   } catch (error) {
-    next(new ApiError(`Error logging in user: ${error.message}`, 500));
-  }
+      next(new ApiError(`Error logging in user: ${error.message}`, 500));
+   }
 };

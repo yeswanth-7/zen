@@ -3,6 +3,7 @@ const User = require('../models/userModel');
 const UserRecommendation = require('../models/userRecommendationModel');
 const { ApiError } = require('../utils/apiError');
 
+
 exports.getRecommendations = async (req, res, next) => {
   try {
     const user = await User.findById(req.userId);

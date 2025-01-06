@@ -1,0 +1,158 @@
+[
+  {
+      "recommendationType": "energy_saving",
+      "title": "Switch off lights when not in use",
+      "description": "Make sure to turn off lights when you leave a room. This simple habit can save energy.",
+      "relevantLifestyleFactors": ["home", "high_energy_use"]
+  },
+  {
+      "recommendationType": "energy_saving",
+      "title": "Unplug chargers when not in use",
+      "description": "Unplug your phone, laptop, and other device chargers when they are not being used. This stops unnecessary energy consumption.",
+      "relevantLifestyleFactors": ["home", "high_energy_use"]
+  },
+{
+      "recommendationType": "dietary_change",
+      "title": "Try a local farmers market for fresh produce",
+      "description": "Visit a local farmers market in your area to get organic produce. This can also reduce packaging waste and support local economy.",
+      "relevantLifestyleFactors": ["urban", "vegetarian", "shopping"]
+ },
+ {
+      "recommendationType": "dietary_change",
+      "title": "Reduce meat intake",
+      "description": "Reducing the intake of animal based proteins reduces your carbon emissions",
+      "relevantLifestyleFactors": ["omnivore"]
+   },
+  {
+      "recommendationType": "transportation_tips",
+      "title": "Take public transportation instead of driving",
+      "description": "Use public transport to reduce your reliance on private cars. It also reduces carbon emissions.",
+      "relevantLifestyleFactors": ["urban", "public transit"]
+   },
+  {
+     "recommendationType": "transportation_tips",
+     "title": "Walk or bicycle for short distances",
+     "description": "Whenever possible try to walk or use a bicycle instead of driving for short distances. This is also a good exercise",
+     "relevantLifestyleFactors":["urban"]
+   },
+ {
+     "recommendationType": "dietary_change",
+     "title": "Switch to a plant-based protein source like lentils",
+      "description": "Use lentils to supplement protein instead of animal based proteins. This can significantly reduce your carbon emissions",
+     "relevantLifestyleFactors": ["vegetarian"]
+  },
+  {
+      "recommendationType": "dietary_change",
+      "title": "Reduce processed foods",
+     "description": "Try to reduce processed foods. This can reduce food packaging and also help you lead a healthier lifestyle",
+      "relevantLifestyleFactors": ["shopping"]
+  },
+ {
+    "recommendationType": "waste_reduction",
+      "title": "Use reusable shopping bags",
+     "description": "Carry reusable shopping bags when going grocery shopping to avoid plastic bag waste.",
+     "relevantLifestyleFactors": ["home", "shopping"]
+ },
+ {
+     "recommendationType": "waste_reduction",
+     "title": "Reduce single use plastic",
+     "description": "Reduce your use of plastic bottles, plastic straws and plastic bags",
+      "relevantLifestyleFactors":["home"]
+  },
+ {
+  "recommendationType": "transportation_tips",
+  "title":"Use public bicycle for commuting",
+   "description": "If your location has a public bicycle program, try using that to commute to reduce carbon emissions",
+    "relevantLifestyleFactors":["London", "public transit"]
+  },
+ {
+     "recommendationType": "energy_saving",
+     "title":"Consider energy efficient appliances",
+      "description": "Use energy efficient appliances that are rated with energy star. This can reduce energy consumption in your home",
+      "relevantLifestyleFactors":["home", "high_energy_use"]
+   },
+  {
+     "recommendationType": "energy_saving",
+      "title": "Use smart thermostats",
+       "description": "Use a smart thermostat that can adjust the temperature automatically based on your usage and save you money in your bills",
+      "relevantLifestyleFactors":["home", "high_energy_use"]
+  },
+{
+  "recommendationType": "energy_saving",
+    "title": "Lower your thermostat settings",
+      "description": "Adjust your thermostat a few degrees lower in winter or higher in summer to save energy.",
+       "relevantLifestyleFactors": ["home", "high_energy_use", "location_cold"]
+  },
+  {
+      "recommendationType": "energy_saving",
+     "title":"Use fans instead of AC",
+     "description":"If you are not located in a very hot region, try using fans instead of air conditioning to reduce energy consumption",
+      "relevantLifestyleFactors":["home", "location_moderate"]
+    },
+ {
+      "recommendationType": "waste_reduction",
+       "title": "Compost food waste",
+        "description":"Composting your food waste can reduce the amount of trash you are throwing, and it is also useful for gardening",
+        "relevantLifestyleFactors":["home", "vegetarian"]
+    },
+    {
+      "recommendationType": "transportation_tips",
+        "title": "Use carpooling",
+        "description":"If you need to commute in a private car, carpool to your destination with colleagues or neighbours",
+       "relevantLifestyleFactors":["urban","car", "omnivore"]
+   },
+   {
+      "recommendationType": "dietary_change",
+      "title": "Buy food in bulk",
+       "description": "Buying your food in bulk can reduce your packaging waste, and can also be more cost effective",
+      "relevantLifestyleFactors":["shopping"]
+    },
+    {
+       "recommendationType":"water_saving",
+      "title":"Take shorter showers",
+       "description": "Taking shorter showers reduces water usage, and will help reduce your water bills",
+       "relevantLifestyleFactors":["home"]
+     },
+  {
+      "recommendationType":"water_saving",
+      "title": "Fix leaky faucets",
+       "description":"Leaky faucets waste a lot of water, make sure to fix or replace any leaky faucets in your house.",
+     "relevantLifestyleFactors": ["home"]
+   },
+   {
+      "recommendationType": "dietary_change",
+     "title": "Try to eat seasonal foods",
+      "description": "Try to buy and eat foods that are in season to reduce carbon footprint and promote local and sustainable agriculture.",
+      "relevantLifestyleFactors":["shopping","omnivore","vegetarian"]
+  },
+    {
+      "recommendationType": "transportation_tips",
+       "title": "Consider using electric cars",
+        "description":"If you need to buy a car, you should consider buying an electric car to reduce your environmental impact.",
+        "relevantLifestyleFactors": ["urban","car", "omnivore"]
+      },
+  {
+      "recommendationType": "energy_saving",
+      "title": "Use less water while doing laundry",
+       "description":"Reduce energy by washing laundry at lower temperature, and reduce water consumption by using a smaller load.",
+     "relevantLifestyleFactors":["home"]
+   },
+   {
+        "recommendationType": "waste_reduction",
+       "title":"Recycle properly",
+       "description": "Make sure you are recycling all recyclable materials such as paper, glass and plastic",
+        "relevantLifestyleFactors":["home"]
+  },
+  {
+     "recommendationType":"dietary_change",
+     "title":"Eat less imported foods",
+      "description":"Eating local produce reduces carbon emissions from transportation",
+      "relevantLifestyleFactors":["shopping", "omnivore", "vegetarian", "urban"]
+     },
+    {
+    "recommendationType": "energy_saving",
+     "title": "Use natural light",
+     "description": "Open windows during the day to make use of natural light, which also reduces electricity costs",
+     "relevantLifestyleFactors": ["home"]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Understanding Your Carbon Footprint",
+        "content": "<p>Your carbon footprint is the total amount of greenhouse gases you generate through your daily activities. It's expressed in tons of carbon dioxide equivalent (tCO2e) and is used as a single measure to describe all greenhouse gases.  You contribute to your carbon footprint when you drive your car, fly in an airplane, use electricity, buy food, and purchase many other consumer products.</p> <p>  By making conscious choices, you can significantly reduce your impact on the planet.</p>",
+        "category": "climate change basics"
+    },
+   {
+        "title": "The Impact of Reducing Meat Consumption",
+        "content": "<p>Animal agriculture is a significant contributor to greenhouse gas emissions. By choosing plant-based meals more often, you can drastically reduce your carbon footprint, as well as the need for large-scale deforestation.</p>",
+        "category": "dietary_change"
+    },
+     {
+        "title": "Sustainable Transportation and Climate Change",
+        "content": "<p>Transportation is a major source of greenhouse gas emissions. Using public transport, walking, bicycling, and carpooling reduces the amount of CO2 released into the atmosphere. It also helps reduce air pollution and promotes healthier lifestyles.</p>",
+         "category": "transportation"
+    },
+   {
+        "title": "The Benefits of Reducing Energy Consumption",
+         "content": "<p>Conserving energy at home saves natural resources and reduces greenhouse gas emissions from power plants. Small changes like switching off lights and unplugging chargers can lead to significant cumulative effects.</p>",
+         "category": "energy_saving"
+     },
+   {
+        "title":"The importance of reducing waste",
+        "content":"<p>By reducing waste and recycling properly you can prevent waste from ending in landfills and help reduce the need for more plastic production. Recycling materials such as paper, glass and plastic ensures they can be used again</p>",
+        "category": "sustainable living"
+    },
+    {
+      "title": "How Reusable Bags and Bottles Help",
+      "content": "<p>Switching from single use plastics to reusable shopping bags and water bottles will reduce waste and reduce the amount of plastic that is entering the environment. This contributes to a healthier environment.</p>",
+      "category":"sustainable living"
+    },
+     {
+         "title":"The impact of electricity consumption",
+        "content":"<p>Electricity generation is a major source of greenhouse gas emissions. By reducing electricity consumption and using energy efficient devices you can help reduce your carbon footprint and reduce reliance on unsustainable power production.</p>",
+       "category":"energy_saving"
+       },
+     {
+         "title":"The Benefits of sustainable local produce",
+        "content":"<p>Buying local produce reduces the distance food travels, and also supports local farmers and communities, this promotes more sustainable practices and reduces our carbon footprint.</p>",
+          "category":"dietary_change"
+    },
+    {
+      "title": "Understanding the Impact of Food Choices",
+      "content":"<p>The types of foods you choose have a significant impact on carbon emissions. Reducing meat and dairy, eating locally sourced food and reducing processed foods can reduce your carbon footprint and also improve your health.</p>",
+       "category":"dietary_change"
+    },
+    {
+       "title":"The Power of Collective Action",
+       "content":"<p>While individual actions may seem small, it is very important to remember that collective action makes a difference. When a large group of people makes lifestyle changes, this will impact the environment positively, and that can have lasting change for all.</p>",
+       "category":"climate change basics"
+     },
+    {
+      "title": "The importance of reducing water consumption",
+       "content":"<p>By taking shorter showers and fixing leaky faucets, you can help reduce water consumption, and ensure that we do not use an unsustainable amount of water</p>",
+       "category":"water_saving"
+     },
+     {
+        "title":"The benefits of carpooling",
+        "content":"<p>If you need to commute in a private vehicle, carpooling helps reduce emissions by sharing the journey with others. It will also help reduce traffic congestion and reduces vehicle maintenance costs.",
+         "category":"transportation"
+     },
+      {
+          "title": "The benefits of using a public bicycle",
+         "content":"<p>Public bicycles can help reduce car usage and reduce emissions, while allowing you to exercise.</p>",
+         "category":"transportation"
+      },
+      {
+         "title":"Benefits of reducing plastic waste",
+           "content": "<p>By reducing the use of plastic and recycling plastic, we can greatly reduce the amount of plastic in our environment. Plastics that end up in our environment can also have devastating consequences for wildlife and ecosystems.</p>",
+           "category":"waste_reduction"
+        }
+]

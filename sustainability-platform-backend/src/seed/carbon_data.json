@@ -1,0 +1,50 @@
+[
+    {
+         "activityType": "electricity_usage",
+         "emissionFactor": 0.5,
+         "unit": "kg CO2/kWh",
+         "source": "US EPA"
+    },
+    {
+         "activityType": "car_travel",
+          "emissionFactor": 0.25,
+         "unit": "kg CO2/mile",
+          "source": "US EPA"
+      },
+     {
+        "activityType": "public_transit",
+          "emissionFactor": 0.1,
+          "unit": "kg CO2/mile",
+           "source": "Average, Urban Area"
+      },
+       {
+          "activityType": "bicycle",
+          "emissionFactor": 0.0,
+          "unit": "kg CO2/mile",
+          "source": "Zero Emission"
+       },
+      {
+         "activityType": "plant_based_meal",
+          "emissionFactor": 0.1,
+         "unit": "kg CO2/meal",
+         "source": "Our Calculation"
+     },
+    {
+       "activityType":"meat_meal",
+        "emissionFactor": 1.5,
+       "unit":"kg CO2/meal",
+        "source":"Our Calculation"
+    },
+    {
+      "activityType": "flight_travel_short",
+      "emissionFactor": 0.2,
+       "unit": "kg CO2/mile",
+       "source": "ICAO"
+   },
+    {
+       "activityType": "flight_travel_long",
+      "emissionFactor": 0.15,
+       "unit": "kg CO2/mile",
+        "source": "ICAO"
+   }
+ ]
